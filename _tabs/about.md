@@ -4,5 +4,4 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+This site exists solely to host blog posts; for more about me, see [www.chorl.dev](https://www.chorl.dev?ref=blog.chorl.dev/about).
