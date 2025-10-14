@@ -26,7 +26,7 @@ Finally, the questions which these thoughts surround:
 My main thought here stems from a discussion that I have had with a friend of mine.
 This friend, insofar as I understand it, views their devices -- phone, computer, etc. -- as an extension of their _self_.
 
-Taking this, I would propose that the devices could constitute a _sense_ in Aristotle's context and, therefore, aid in perception and knowledge.
+Taking this, I would propose that devices could constitute a _sense_ in Aristotle's context and, thus, aid in perception and knowledge.
 I would, therefore, say that the answer to the first question is yes.
 As for the second, I would argue it is not necessary to answer; in that mind, the third answer is no.
 
