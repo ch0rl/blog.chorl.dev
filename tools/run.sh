@@ -4,7 +4,7 @@
 
 prod=false
 command="bundle exec jekyll s -l"
-host="127.0.0.1"
+host="localhost"
 
 help() {
   echo "Usage:"
@@ -44,6 +44,8 @@ command="$command -H $host"
 
 if $prod; then
   command="JEKYLL_ENV=production $command"
+else
+  command="$command --incremental --livereload-min-delay 5"
 fi
 
 if [ -e /proc/1/cgroup ] && grep -q docker /proc/1/cgroup; then
