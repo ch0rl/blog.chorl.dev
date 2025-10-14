@@ -2,9 +2,12 @@
 layout: post
 title: 'Digital Knowledge: a transhumanist approach'
 date: 2025-10-14 16:26 +0100
+updated: 2025-10-14 20:08 +0100
 tags: [Trans, Transhumanism, Knowledge, Philosophy]
 categories: [Rambles]
 ---
+
+This stems from a short discussion in IM941: Adventures in Interdisciplinary Research.
 
 ## Background
 This rambling builds on Aristotle's proposition that all perception is as a result of stimulation of the senses.[^no-access][^slakey]
@@ -20,7 +23,15 @@ Finally, the questions which these thoughts surround:
 3. Are these questions in opposition?
 
 ## Thoughts
+My main thought here stems from a discussion that I have had with a friend of mine.
+This friend, insofar as I understand it, views their devices -- phone, computer, etc. -- as an extension of their _self_.
 
+Taking this, I would propose that the devices could constitute a _sense_ in Aristotle's context and, therefore, aid in perception and knowledge.
+I would, therefore, say that the answer to the first question is yes.
+As for the second, I would argue it is not necessary to answer; in that mind, the third answer is no.
+
+I would propose that, regardless of whether we consider knowledge inherently human, digital means can aid in knowledge production through forming a sort of sense.
+Viewing devices as an extension of one's self allows for the application of _sense perception_ theory, as well as other knowledge philosophies.
 
 ## Notes
 [^no-access]: At the time I write this, I do not have access to my Uni account, so I cannot access reference material. 
