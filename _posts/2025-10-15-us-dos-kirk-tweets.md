@@ -1,6 +1,6 @@
 ---
 layout: post
-title: U.S. DoS Kirk Posts
+title: "DoS Kirk Posts"
 date: 2025-10-15 17:55 +0100
 categories: [Rambles]
 tags: [Politics, U.S.]
