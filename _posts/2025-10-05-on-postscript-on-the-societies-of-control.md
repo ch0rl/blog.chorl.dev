@@ -3,7 +3,7 @@ layout: post
 title: On 'Postscript on the Societies of Control'
 date: 2025-10-05 13:20 +0100
 updated: 2025-10-12 17:11 +0100
-categories: [Academic, IM902]
+categories: [Academic, IM902, Unfinished]
 tags: [Review]
 ---
 
