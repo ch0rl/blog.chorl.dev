@@ -35,7 +35,7 @@ I identified two types of URLs: `vm.` and `www.`.
 URLs for the subdomain `vm.tiktok.com` appear to be the "proper" share links.
 When opened, they return a HTTP 301 redirect to a `www.` URL.
 
-These URLs follow the format `https://vm.tiktok.com/[id]]/`, where `id` appears to be a sequential id, encoded into alphanumeric characters.
+These URLs follow the format `https://vm.tiktok.com/[id]/`, where `id` appears to be a sequential id, encoded into alphanumeric characters.
 
 On further examination, these seem to be TikTok's internal way of shortening URLs in general.
 I initially thought these were sequential because the first few characters didn't change as I generated multiple links, but the other characters did.
