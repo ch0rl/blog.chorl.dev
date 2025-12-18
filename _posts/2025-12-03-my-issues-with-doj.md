@@ -76,6 +76,22 @@ In fairness, it is harrowing to see an old lady be carried away unceremoniously 
 
 But the question is whether this is productive, or is it fetishising and objectifying disabilities and those with them?
 
+## Rhetoric
+I think it is also important to combat some key parts of DoJ's rhetoric here.
+
+### 'Badge of Honour'
+A DoJ spokesperson has been quoted saying:[^badge-of-honour]
+> Despite, or because of, the legal risks, the government has turned an arrest for terrorism into a badge of honour.
+
+I thought that it was well-accepted in activist spaces that we do not glorify being arrested, as it is a deeply traumatising experience that effects everyone differently.
+Sadly, DoJ seem to have overlooked this; branding arrest -- arrest under counter-terror powers -- as a 'badge of honour' frames it as 'fine' and disillusions those considering taking action. 
+
+### Terrorists
+Another thing that irks me is the media rhetoric claiming that the police are branding action takers as 'terrorists'.
+They are not being arrested for being terrorists -- they are being arrested for supporting a proscribed (terrorist) organisation.
+It's a very minor point but it really irks me. 
+
 ## Notes
 [^doj-about]: DoJ, ["About Defend Our Juries"](https://defendourjuries.net/about-doj/)
 [^proscription]: See also ["On proscription"]({% post_url 2025-11-22-on-proscription %})
+[^badge-of-honour]: Berny Torre (13 August 2025), "[The protests are now unstoppable](https://morningstaronline.co.uk/article/protests-are-now-unstoppable)", The Morning Star.
