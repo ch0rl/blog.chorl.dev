@@ -2,7 +2,7 @@
 layout: post
 title: My Issues with DoJ
 date: 2025-12-03 14:16 +0000
-updated: 2025-12-13 11:15 +0000
+updated: 2025-12-18 11:15 +0000
 categories: [Rambles]
 tags: [Activism, Law, UK, Politics]
 ---
@@ -52,6 +52,8 @@ I can say for certain that:
 1. There is nothing on positionality in the briefing call other than very minimal lip service, and
 2. Nothing of this sort exists within the most recent briefing document at the time of writing.
 
+I would argue that the lack of this vital information means that people are unable to give informed consent to take part in the action.
+
 ## The Action Itself
 
 ### The Offence
@@ -63,6 +65,10 @@ Notably, an offence under section 13 TA is summary only, whereas section 12 TA i
 
 Of course, indictable offences carry greater risk, allowing for stronger punishment and house raids.
 Breaking the law, especially terrorism law, is not something that should be taken lightly.
+
+Speaking purely tactically, though, a magistrate's offence is a bad idea.
+For one, there is far less subjectivity when being tried by a single magistrate, as opposed to a jury.
+Secondly, if the idea was to challenge the legal system, trial by magistrate will not to that; it is entirely foreseeable that the CPS and judiciary could establish a "fasttrack" to handle these cases quickly.
 
 ### The Media Approach
 Much of the media published by DoJ draws on emotional responses to seeing elderly and visibly disabled people get arrested.
